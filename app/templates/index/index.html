@@ -2,18 +2,20 @@
 
 
 {% block content %}
-  <div class="home-panel d-flex flex-row justify-content-around align-items-center">
-    <div class="d-flex flex-column justify-content-around align-items-center">
-      <img src="/img/lamp.png" class="img rounded-circle mb-2">
-      <h4>Problemas em aberto</h4>
+  <div class="jumbotron bg-transparent">
+    <div class="home-panel d-flex flex-column flex-md-row justify-content-around align-items-center">
+      <div class="d-flex flex-column justify-content-around align-items-center  mb-4">
+        <img src="/img/lamp.png" class="img rounded-circle mb-2">
+        <h4>Problemas em aberto</h4>
+      </div>
+      <div class="d-flex flex-column justify-content-around align-items-center  mb-4">
+        <img src="/img/lamp_good.png" class="img rounded-circle mb-2">
+        <h4>Problemas solucionados</h4>
+      </div>
+      <a class="d-flex flex-column justify-content-around align-items-center mb-4" href="{{ url_for('reclamacao.new_reclamacao') }}">
+        <img src="/img/megaphone.svg" class="img rounded-circle mb-2">
+        <h4>Fazer uma reclamação</h4>
+      </a>
     </div>
-    <div class="d-flex flex-column justify-content-around align-items-center">
-      <img src="/img/lamp_good.png" class="img rounded-circle mb-2">
-      <h4>Problemas solucionados</h4>
-    </div>
-    <a class="d-flex flex-column justify-content-around align-items-center" href="{{ url_for('reclamacao.new_reclamacao') }}">
-      <img src="/img/megaphone.svg" class="img rounded-circle mb-2">
-      <h4>Fazer uma reclamação</h4>
-    </a>
   </div>
 {% endblock %}
