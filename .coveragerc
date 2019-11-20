@@ -1,0 +1,9 @@
+[tool:unittest]
+testpaths = test
+
+[coverage:run]
+source = app
+
+[report]
+
+[html]
