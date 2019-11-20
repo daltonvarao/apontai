@@ -1,10 +1,10 @@
 from flask import Blueprint, render_template
 from app.models.usuario import Usuario
 
-login_bp = Blueprint('login',
+sobre_bp = Blueprint('sobre',
                     __name__,
                     url_prefix='/')
 
-@login_bp.route('/login')
-def index_login():
-    return render_template('login/index.html', show_navigation=True)
+@sobre_bp.route('/sobre')
+def index_sobre():
+    return render_template('sobre/index.html')
