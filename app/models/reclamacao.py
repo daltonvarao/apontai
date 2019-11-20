@@ -9,3 +9,4 @@ class Reclamacao(db.Model):
     local = db.Column(db.String(100))
     tempo = db.Column(db.String(50))
     desc = db.Column(db.String(500))
+    img_url = db.Column(db.String(500))
