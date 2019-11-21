@@ -1,13 +1,14 @@
-<div class="login shadow-sm rounded bg-white col-10 col-md-3 p-4">
+<div class="jumbotron shadow-sm rounded bg-white col-11 col-md-3 p-4">
   <h1 class="h3">Login</h1>
-  <form action="">
+  <form action="" method="post">
     <div class="form-group">
-      <input class="form-control" type="text" placeholder="Email" />
+      <input class="form-control" name="email" value="{{ usuario.email if usuario else '' }}" type="email" placeholder="Email" />
     </div>
     <div class="form-group">
-      <input class="form-control" type="password" placeholder="Senha">
+      <input class="form-control" name="senha" type="password" placeholder="Senha">
     </div>
     <button class="btn btn-primary mb-4 w-100"> Entrar</button>
     <p class="join-text text-center">Ainda não possui conta? <a href="{{ url_for('cadastro.new_cadastro') }}">Cadastre-se</a></p>
+    <p class="join-text text-center">Voltar a <a href="{{ url_for('index.index') }}">pagina incial</a></p>
   </form>
 </div>

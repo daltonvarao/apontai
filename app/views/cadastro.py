@@ -29,5 +29,5 @@ def new_cadastro():
             flash('Usuário cadastrado, faça login para continuar!', 'success')
             return redirect(url_for('login.index_login'))
             
-        return render_template('cadastro/index.html', show_navigation=True, usuario=usuario or Usuario())
+        return render_template('cadastro/index.html', show_navigation=True, usuario=usuario)
     return render_template('cadastro/index.html', show_navigation=True)

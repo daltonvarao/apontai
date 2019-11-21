@@ -2,17 +2,20 @@
 
 
 {% block content %}
+  {% include "partials/alerts.html" %}
   <div class="jumbotron bg-transparent">
     <div class="home-panel d-flex flex-column flex-md-row justify-content-around align-items-center">
-      <div class="d-flex flex-column justify-content-around align-items-center  mb-4">
+      <a class="d-flex flex-column justify-content-around align-items-center mb-4" href="{{ url_for('reclamacao.index_reclamacoes', status=['abertos']) }}">
         <img src="/img/lamp.png" class="img rounded-circle mb-2">
-        <h4>Problemas em aberto</h4>
-      </div>
-      <div class="d-flex flex-column justify-content-around align-items-center  mb-4">
+        <h4>Problemas abertos</h4>
+      </a>
+
+      <a class="d-flex flex-column justify-content-around align-items-center mb-4" href="{{ url_for('reclamacao.index_reclamacoes', status=['solucionados']) }}">
         <img src="/img/lamp_good.png" class="img rounded-circle mb-2">
         <h4>Problemas solucionados</h4>
-      </div>
-      <a class="d-flex flex-column justify-content-around align-items-center mb-4" href="{{ url_for('reclamacao.new_reclamacao') }}">
+      </a>
+
+      <a class="d-flex flex-column justify-content-around align-items-center mb-4" href="{{ url_for('reclamacao.new_reclamacoes') }}">
         <img src="/img/megaphone.svg" class="img rounded-circle mb-2">
         <h4>Fazer uma reclamação</h4>
       </a>

@@ -1,0 +1,90 @@
+{% extends './layout.html' %}
+
+
+{% block content %}
+  <div class="container p-4">
+    {% include "partials/alerts.html" %}
+    
+    <div class="row mb-2">
+      <h4 class="ml-3">Problemas {{ request.args.get('status') }}</h4>
+    </div>
+
+    <div class="d-md-flex flex-md-row-reverse justify-content-md-between">
+      <div class="col-12 col-md-4 mb-4 p-0 pl-md-3">
+        <div class="card mb-0 d-flex flex-row">
+          <div class="card-body">
+            <div class="card-title">
+              <h5>
+                Navegar por categoria
+              </h5>
+            </div>
+            {% for reclamacao in reclamacoes %}
+              <a class="mr-2" href="#">
+                {{ reclamacao.tipo }}
+              </a>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+
+      <div class="col-12 col-md-8 p-0 pl-md-0 pr-md-3">
+        {% if reclamacoes %}
+          {% for reclamacao in reclamacoes %}
+            <article class="card mb-4">
+              <div class="card-body">
+                <div class="card-title">
+                  <h5>{{ reclamacao.titulo }}</h5>
+                </div>
+                <p class="card-text text-justify">{{ reclamacao.descricao }}</p>              
+                <p class="card-text d-flex flex-column">
+                  <small class="text-muted mb-1">
+                    <i class="fa fa-tag"></i>
+                    &nbsp;
+                    {{ reclamacao.tipo }}
+                  </small>
+                  <small class="text-muted mb-1">
+                    <i class="fa fa-clock"></i>
+                    &nbsp;
+                    Há {{ reclamacao.tempo }}H
+                  </small>
+                  <small class="text-muted mb-1">
+                    <i class="fa fa-map-marker-alt"></i>
+                    &nbsp;
+                    {{ reclamacao.local }}
+                  </small>
+                  <small class="text-muted mb-2">
+                    <i class="fa fa-user"></i>
+                    &nbsp;
+                    {{ reclamacao.usuario.nome }}
+                  </small>
+                  <small class="text-muted">
+                    {% if session.get('user_id') in reclamacao.reclamadores|map(attribute='id') %}
+                      <a class="text-white btn btn-success">
+                        Você reclamou <span class="badge badge-light">{{ reclamacao.reclamadores|length }}</span>
+                      </a>
+                    {% else %}
+                    <a
+                      class="text-white btn btn-danger"
+                      href="{{ url_for('reclamacao.reclamar', reclamacao_id=reclamacao.id) if not session.get('user_id') in reclamacao.reclamadores|map(attribute='id') else ''  }}"
+                    >
+                      Reclamar também
+                      <span class="badge badge-light">{{ reclamacao.reclamadores|length }}</span>
+                    </a>
+                    {% endif %}
+                  </small>
+                </p>
+              </div>
+            </article>
+          {% endfor %}
+        {% else %}
+          <div class="alert alert-warning" role="alert">
+            Não existem problemas {{ request.args.get('status') }} aqui
+          </div>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+  <script>
+    const btn = document.getElementById('reclamar')
+  </script>
+{% endblock %}
