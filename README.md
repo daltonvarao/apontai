@@ -12,7 +12,7 @@ Template básico para desenvolvimento de aplicações web com Flask.
   - [x] Cadastro
   - [x] Home
   - [x] Cadastro de Reclamação
-  - [ ] Sobre nós
+  - [x] Sobre nós
   - [ ] Reclamações abertas
   - [ ] Reclamações solucionadas
 

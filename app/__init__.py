@@ -2,7 +2,7 @@ import os
 from flask import Flask
 from flask_migrate import Migrate
 from app import views
-from app.models.db import db
+from app.models import models
 
 
 def create_app(app_mode):
@@ -13,7 +13,7 @@ def create_app(app_mode):
     
     app.config.from_object(app_mode)
     views.register_all_blueprints(app)
-    db.init_app(app)
-    migrate = Migrate(app, db)
+    models.db.init_app(app)
+    migrate = Migrate(app, models.db)
     
     return app

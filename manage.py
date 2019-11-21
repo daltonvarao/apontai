@@ -2,7 +2,7 @@ import os
 from flask_script import Manager, Server
 from flask_migrate import MigrateCommand
 from app import create_app
-from app.models.db import db
+from app.models.models import db
 
 
 def set_app_mode(env):

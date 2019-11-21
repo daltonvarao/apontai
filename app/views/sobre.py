@@ -1,5 +1,4 @@
 from flask import Blueprint, render_template
-from app.models.usuario import Usuario
 
 sobre_bp = Blueprint('sobre',
                     __name__,
