@@ -18,9 +18,8 @@ def index_login():
             else:
                 session['logged_in'] = True
                 session['user_id'] = usuario.id
-                session['user_name'] = usuario.first_name()
                 
-                flash(f"Bem vindo {session['user_name']}")
+                flash(f"Bem vindo {usuario.first_name()}")
                 return redirect(url_for('index.index'))
         else:
             flash('Email não encontrado, tente outro!', 'danger')

@@ -1,4 +1,4 @@
-from flask import Blueprint, render_template, session
+from flask import Blueprint, render_template, session, flash
 
 index_bp = Blueprint('index',
                     __name__,
