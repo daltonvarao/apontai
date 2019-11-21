@@ -7,7 +7,6 @@ reclamacao_bp = Blueprint('reclamacao',
                     __name__,
                     url_prefix='/reclamacoes')
 
-
 @reclamacao_bp.route('/new', methods=['GET', 'POST'])
 @login_required
 def new_reclamacoes():
@@ -27,6 +26,10 @@ def new_reclamacoes():
                         descricao=descricao,
                         usuario_id=session.get('user_id')
                     )
+        
+        current_user = db.session.query(Usuario).get(int(session.get('user_id')))
+        reclamacao.reclamadores.append(current_user)
+
         db.session.add(reclamacao)
         db.session.commit()
 
