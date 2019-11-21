@@ -46,6 +46,7 @@ def index_reclamacoes():
 
 
 @reclamacao_bp.route('/reclamar/<int:reclamacao_id>')
+@login_required
 def reclamar(reclamacao_id):
     reclamacao = db.session.query(Reclamacao).get(int(reclamacao_id))
     current_user = db.session.query(Usuario).get(int(session.get('user_id')))
