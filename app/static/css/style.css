@@ -11,6 +11,14 @@ a:hover {
   text-decoration: none;
 }
 
+a {
+  color: #79bd8f;
+}
+
+a:hover {
+  color: #5f9c73;
+}
+
 a, p, btn {
   font-family: 'Ubuntu', sans-serif;
 }
@@ -22,7 +30,7 @@ h1, h2, h3, h4, h5, h6 {
 html, body {
   height: 100%;
   max-height: 100%;
-  background-color: #ecf1f8 !important;
+  background-color: #f5f7fa !important;
   color: #333;
   max-width: 100%;
 }
@@ -49,8 +57,13 @@ html, body {
   height: 100%;
 }
 
+.logo {
+  background-image: url('../img/logo.svg');
+  font-size: 0;
+}
+
 .navigation {
-  background-color: #fff;
+  background-color: #79bd8f;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -65,6 +78,10 @@ html, body {
 
 .navigation-link {
   margin-right: 1rem;
+}
+
+.navigation-link a {
+  color: #fff;
 }
 
 .home-panel {
