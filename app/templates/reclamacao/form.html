@@ -2,12 +2,12 @@
   <h1 class="h3 mb-3">Qual o problema?</h1>
   <form action="" method="post">
     <div class="form-group">
-      <input class="form-control" name="titulo" type="text" placeholder="Titulo" />
+      <input class="form-control" name="titulo" type="text" placeholder="Titulo" required />
     </div>
     <div class="form-group">
       <div class="row">
         <div class="col-6">
-          <select name="tipo" class="custom-select">
+          <select name="tipo" class="custom-select" required>
             <option selected>Outros</option>
             <option value="agua">Desperdício de água</option>
             <option value="energia">Desperdício de energia</option>
@@ -15,12 +15,12 @@
           </select>
         </div>
         <div class="col-6">
-          <input class="form-control" name="tempo" type="number" placeholder="A quanto tempo? (Em horas)">
+          <input class="form-control" name="tempo" type="number" required placeholder="A quanto tempo? (Em horas)">
         </div>
       </div>
     </div>
     <div class="form-group">
-      <input class="form-control" name="local" type="text" placeholder="Local (Campus, prédio, sala)">
+      <input class="form-control" name="local" type="text" required placeholder="Local (Campus, prédio, sala)">
     </div>
     <div class="form-group">
       <label for="foto">
@@ -29,7 +29,7 @@
       <input class="form-control" id="foto" type="file" placeholder="A quanto tempo?" hidden>
     </div>
     <div class="form-group">
-      <textarea class="form-control" name="descricao" cols="30" rows="4" placeholder="Descrição"></textarea>
+      <textarea class="form-control" name="descricao" required cols="30" rows="4" placeholder="Descrição"></textarea>
     </div>
     <button class="btn btn-primary mb-4 w-100">Enviar</button>
   </form>

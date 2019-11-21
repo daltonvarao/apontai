@@ -12,16 +12,18 @@ def index_login():
         senha = request.form.get('senha')
 
         usuario = db.session.query(Usuario).filter_by(email=email).first()
-
-        if usuario.senha != senha:
-            flash('Senha incorreta!', 'danger')
+        if usuario:
+            if usuario.senha != senha:
+                flash('Senha incorreta!', 'danger')
+            else:
+                session['logged_in'] = True
+                session['user_id'] = usuario.id
+                session['user_name'] = usuario.first_name()
+                
+                flash(f"Bem vindo {session['user_name']}")
+                return redirect(url_for('index.index'))
         else:
-            session['logged_in'] = True
-            session['user_id'] = usuario.id
-            session['user_name'] = usuario.first_name()
-            
-            flash(f"Bem vindo {session['user_name']}")
-            return redirect(url_for('index.index'))
+            flash('Email não encontrado, tente outro!', 'danger')
         return render_template('login/index.html', show_navigation=True, usuario=usuario)
     return render_template('login/index.html', show_navigation=True)
 
