@@ -11,7 +11,7 @@ reclamacao_bp = Blueprint('reclamacao',
                     url_prefix='/reclamacoes')
 
 
-UPLOAD_FOLDER = os.path.join(os.getcwd(), 'static/img/uploads/')
+UPLOAD_FOLDER = os.path.join(os.getcwd(), 'app/static/img/uploads/')
 ALLOWED_EXTENSIONS = {'png', 'jpg', 'jpeg', 'gif'}
 
 def allowed_file(filename):
