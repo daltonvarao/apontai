@@ -22,12 +22,12 @@ def new_cadastro():
             flash('Email já cadastrado, tente outro!', 'danger')
         elif senha != confirma_senha:
             flash('Senhas não conferem, tente novamente!', 'danger')
-        else:
-            session['logged_in'] = True
-            session['user_id'] = usuario.id
-                
+        else:   
             db.session.add(usuario)
             db.session.commit()
+            
+            session['logged_in'] = True
+            session['user_id'] = usuario.id
 
             flash(f"Bem vindo {usuario.first_name()}, veja a seção de ajuda caso tenha alguma duvida!")
             return redirect(url_for('index.index'))

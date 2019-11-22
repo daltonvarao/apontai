@@ -5,8 +5,17 @@
   <div class="container p-4">
     {% include "partials/alerts.html" %}
     
-    <div class="row mb-2">
-      <h4 class="ml-3">Problemas {{ request.args.get('status') }}</h4>
+    <div class="row mb-2 d-flex justify-content-between align-items-center">
+      <h4 class="ml-3">
+        Problemas {{ request.args.get('status') }}
+        {% if request.args.get('tipo') == 'poluicao' %}
+          {{'- poluição'}}
+        {% elif request.args.get('tipo') == 'agua' %}
+          {{'- água'}}
+        {% elif request.args.get('tipo') %}
+          {{ '- ' + request.args.get('tipo') }}
+        {% endif %}
+      </h4>
     </div>
 
     <div class="d-md-flex flex-md-row-reverse justify-content-md-between">
@@ -18,11 +27,11 @@
                 Navegar por categoria
               </h5>
             </div>
-            {% for reclamacao in reclamacoes %}
-              <a class="mr-2" href="#">
-                {{ reclamacao.tipo }}
-              </a>
-            {% endfor %}
+            <a class="mr-2" href="{{ url_for('reclamacao.index_reclamacoes', status=['abertos']) }}">Todos</a>
+            <a class="mr-2" href="{{ url_for('reclamacao.index_reclamacoes', status=['abertos'], tipo=['agua']) }}">Desperdício de água</a>
+            <a class="mr-2" href="{{ url_for('reclamacao.index_reclamacoes', status=['abertos'], tipo=['energia']) }}">Desperdício de energia</a>
+            <a class="mr-2" href="{{ url_for('reclamacao.index_reclamacoes', status=['abertos'], tipo=['poluicao']) }}">Ambiente poluído</a>
+            <a class="mr-2" href="{{ url_for('reclamacao.index_reclamacoes', status=['abertos'], tipo=['outros']) }}">Outros</a>
           </div>
         </div>
       </div>
@@ -43,9 +52,14 @@
                     {{ reclamacao.tipo }}
                   </small>
                   <small class="text-muted mb-1">
+                    <i class="fa fa-calendar"></i>
+                    &nbsp;
+                    {{ reclamacao.created_at.strftime('%d/%m/%Y') }}
+                  </small>
+                  <small class="text-muted mb-1">
                     <i class="fa fa-clock"></i>
                     &nbsp;
-                    Há {{ reclamacao.tempo }}H
+                    {{ reclamacao.created_at.strftime('%H:%M:%S') }}
                   </small>
                   <small class="text-muted mb-1">
                     <i class="fa fa-map-marker-alt"></i>
@@ -78,7 +92,7 @@
           {% endfor %}
         {% else %}
           <div class="alert alert-warning" role="alert">
-            Não existem problemas {{ request.args.get('status') }} aqui
+            Não existem problemas {{ request.args.get('status') }} aqui.
           </div>
         {% endif %}
       </div>

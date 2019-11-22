@@ -56,16 +56,20 @@ html, body {
   height: 100%;
 }
 
-.logo {
-  background-image: url('../img/logo.svg');
-  font-size: 0;
+@media (min-width: 640px) and (max-width: 768px) {
+  .logo {
+    width: 30%;
+  }
+}
+
+@media (min-width: 769px) {
+  .logo {
+    width: 10%;
+  }
 }
 
 .navigation {
   background-color: #79bd8f;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
   padding: .75rem;
 }
 
@@ -78,6 +82,11 @@ html, body {
 .navigation-link {
   margin-right: 1rem;
 }
+
+.navigation-link:last-child {
+  margin-right: 0;
+}
+
 
 .navigation-link a {
   color: #fff;

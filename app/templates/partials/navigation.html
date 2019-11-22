@@ -1,8 +1,9 @@
-<nav class="navigation shadow-sm">
-  <a href="{{ url_for('index.index') }}">
-    <img src="/img/logo.svg" alt="">
-  </a>
+<nav class="navigation d-flex flex-column flex-md-row justify-content-between align-items-center">
+  <!-- <a class="mb-3 mb-md-0" href="{{ url_for('index.index') }}"> -->
+  <img class="logo" src="/img/logo.svg" alt="logo">
+  <!-- </a> -->
   <ul class="navigation-items">
+    <li class="navigation-link"><a href="{{ url_for('index.index') }}">Home</a></li>
     <li class="navigation-link"><a href="#">Ajuda</a></li>
     <li class="navigation-link"><a href="{{ url_for('sobre.index_sobre') }}">Sobre</a></li>
     {% if session.logged_in %}

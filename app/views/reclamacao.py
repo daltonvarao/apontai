@@ -15,19 +15,17 @@ def new_reclamacoes():
         tipo = request.form.get('tipo')
         titulo = request.form.get('titulo')
         local = request.form.get('local')
-        tempo = request.form.get('tempo')
         descricao = request.form.get('descricao')
 
         reclamacao = Reclamacao(
                         titulo=titulo,
                         tipo=tipo, 
                         local=local,
-                        tempo=tempo,
                         descricao=descricao,
                         usuario_id=session.get('user_id')
                     )
         
-        current_user = db.session.query(Usuario).get(int(session.get('user_id')))
+        current_user = db.session.query(Usuario).get(session.get('user_id'))
         reclamacao.reclamadores.append(current_user)
 
         db.session.add(reclamacao)
@@ -41,11 +39,16 @@ def new_reclamacoes():
 
 @reclamacao_bp.route('/')
 def index_reclamacoes():
-    status = True if request.args.get('status') == 'solucionados' else False
+    status = True if request.args.get('status') == 'solucionados' else False  
     
-    reclamacoes = db.session.query(Reclamacao).filter_by(fechado=status).all()
+    reclamacoes = db.session.query(Reclamacao).filter_by(fechado=status)
 
-    return render_template('reclamacao/index.html', reclamacoes=reclamacoes)
+    tipo = request.args.get('tipo')
+
+    if tipo:
+        reclamacoes = reclamacoes.filter_by(tipo=tipo)
+
+    return render_template('reclamacao/index.html', reclamacoes=reclamacoes.all())
 
 
 @reclamacao_bp.route('/reclamar/<int:reclamacao_id>')

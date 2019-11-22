@@ -1,24 +1,17 @@
-<div class="login mt-1 mt-md-4 shadow-sm rounded bg-white col-11 col-md-5 p-4">
+<div class="login mt-3 mt-md-4 shadow-sm rounded bg-white col-11 col-md-5 p-4">
   <h1 class="h3 mb-3">Qual o problema?</h1>
   <form action="" method="post">
     <div class="form-group">
       <input class="form-control" name="titulo" type="text" placeholder="Titulo" required />
     </div>
     <div class="form-group">
-      <div class="row">
-        <div class="col-6">
-          <select name="tipo" class="custom-select" required>
-            <option value="" selected hidden>Selecione ...</option>
-            <option value="outros">Outros</option>
-            <option value="agua">Desperdício de água</option>
-            <option value="energia">Desperdício de energia</option>
-            <option value="poluicao">Ambiente poluído</option>
-          </select>
-        </div>
-        <div class="col-6">
-          <input class="form-control" name="tempo" type="number" required placeholder="Há quanto tempo? (Em horas)">
-        </div>
-      </div>
+      <select name="tipo" class="custom-select" required>
+        <option value="" selected hidden>Selecione uma categoria...</option>
+        <option value="outros">Outros</option>
+        <option value="agua">Desperdício de água</option>
+        <option value="energia">Desperdício de energia</option>
+        <option value="poluicao">Ambiente poluído</option>
+      </select>
     </div>
     <div class="form-group">
       <input class="form-control" name="local" type="text" required placeholder="Local (Campus, prédio, sala)">
@@ -27,7 +20,7 @@
       <label for="foto">
         <img src="/img/file-upload.svg" class="file-upload-label">
       </label>
-      <input class="form-control" id="foto" type="file" placeholder="A quanto tempo?" hidden>
+      <input class="form-control" id="foto" type="file" hidden>
     </div>
     <div class="form-group">
       <textarea class="form-control" name="descricao" required cols="30" rows="4" placeholder="Descrição"></textarea>
