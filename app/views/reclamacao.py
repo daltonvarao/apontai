@@ -1,11 +1,21 @@
 from flask import Blueprint, render_template, session, request, redirect, url_for, flash
 from app.utils.login import login_required
 from app.models.models import Reclamacao, Usuario, db
+from werkzeug.utils import secure_filename
+import datetime
+import os
 
 
 reclamacao_bp = Blueprint('reclamacao',
                     __name__,
                     url_prefix='/reclamacoes')
+
+
+UPLOAD_FOLDER = os.path.join(os.getcwd(), 'app/static/img/uploads/')
+ALLOWED_EXTENSIONS = {'png', 'jpg', 'jpeg', 'gif'}
+
+def allowed_file(filename):
+    return '.' in filename and filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS
 
 @reclamacao_bp.route('/new', methods=['GET', 'POST'])
 @login_required
@@ -29,6 +39,18 @@ def new_reclamacoes():
         reclamacao.reclamadores.append(current_user)
 
         db.session.add(reclamacao)
+        db.session.flush()
+
+        full_path = ''
+
+        if 'foto' in request.files:
+            file = request.files['foto']
+        
+            if file and allowed_file(file.filename):
+                filename = secure_filename(file.filename)
+                file.save(os.path.join(UPLOAD_FOLDER,f'rec{reclamacao.id}-' + filename))
+
+        reclamacao.img_url = f'rec{reclamacao.id}-' + filename
         db.session.commit()
 
         flash('Reclamação salva', 'success')

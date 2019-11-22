@@ -1,3 +1,2 @@
-release: python manage.py db migrate
-release: python manage.py db upgrade
+release: bash posdeploy.sh
 web: python manage.py runserver
