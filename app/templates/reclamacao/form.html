@@ -2,10 +2,12 @@
   <h1 class="h3 mb-3">Qual o problema?</h1>
   <form action="" method="post" enctype="multipart/form-data">
     <div class="form-group">
-      <input class="form-control" name="titulo" type="text" placeholder="Titulo" required />
+      <label for="titulo">Titulo <strong>*</strong></label>
+      <input id="titulo" class="form-control" maxlength="60" name="titulo" type="text" placeholder="Titulo" required />
     </div>
     <div class="form-group">
-      <select name="tipo" class="custom-select" required>
+      <label for="tipo">Categoria <strong>*</strong></label>
+      <select name="tipo" class="custom-select" id="tipo" required>
         <option value="" selected hidden>Selecione uma categoria...</option>
         <option value="outros">Outros</option>
         <option value="agua">Desperdício de água</option>
@@ -14,14 +16,15 @@
       </select>
     </div>
     <div class="form-group">
-      <input class="form-control" name="local" value="Campus Tapajós, Laranjão, Auditório" type="text" required placeholder="Local (Campus, prédio, sala)">
+      <label for="local">Localização <strong>*</strong></label>
+      <input class="form-control" maxlength="100" id="local" name="local" value="Campus Tapajós, Laranjão, Auditório" type="text" required placeholder="Local (Campus, prédio, sala)">
     </div>
     <div class="form-group">
-      <label for="file">Faça upload de uma foto</label>
+      <label for="file">Faça upload de uma foto (opcional)</label>
       <input id="file" class="form-control-file" name="foto" type="file">
     </div>
     <div class="form-group">
-      <textarea class="form-control" name="descricao" required cols="30" rows="4" placeholder="Descrição"></textarea>
+      <textarea class="form-control" name="descricao" maxlength="500" cols="30" rows="4" placeholder="Descrição (opcional)"></textarea>
     </div>
     <button class="btn btn-primary mb-4 w-100">Enviar</button>
   </form>

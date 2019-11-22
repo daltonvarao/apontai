@@ -44,7 +44,9 @@
                 <div class="card-title">
                   <h5>{{ reclamacao.titulo }}</h5>
                 </div>
-                <p class="card-text text-justify">{{ reclamacao.descricao }}</p>
+                {% if reclamacao.descricao %}
+                  <p class="card-text text-justify">{{ reclamacao.descricao }}</p>
+                {% endif %}
                 {% if reclamacao.img_url %}
                   <img class="my-3" src="{{ url_for('static', filename='img/uploads/'+reclamacao.img_url) }}" width="100%" alt="reclamacao_img">
                 {% endif %}
