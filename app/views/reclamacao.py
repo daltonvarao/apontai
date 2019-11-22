@@ -40,9 +40,7 @@ def new_reclamacoes():
 @reclamacao_bp.route('/')
 def index_reclamacoes():
     status = True if request.args.get('status') == 'solucionados' else False  
-    
     reclamacoes = db.session.query(Reclamacao).filter_by(fechado=status)
-
     tipo = request.args.get('tipo')
 
     if tipo:
