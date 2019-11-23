@@ -6,7 +6,7 @@ Repo do projeto da equipe vencedora do primeiro Hackathon na Universidade Federa
   - Diminuição do disperdício de Recursos Hídricos 
   - Melhor destinação de Resíduos Sólidos 
 
-## Solucão da equipe
+## Solução da equipe
 ApontAÍ, uma Plataforma de notificação de problemas e disperdício de recursos que busca conectar os alunos e suas necessidades à Universidade visando transparência e agilidade na solução dos problemas. ApontAÍ, simples assim.
 
 ## Nome da equipe

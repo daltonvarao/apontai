@@ -1,0 +1,17 @@
+language: python
+python:
+  - 3.4
+  - 3.5
+  - 3.6
+  - 3.7
+install: pip install -r requirements.txt
+before_script:
+  - python manage.py db migrate
+  - python manage.py db upgrade
+deploy:
+  provider: heroku
+  api_key:
+    secure: p9A1QscCu5b8guD/ZiGvx7wbS0KgSOGxdReNmSDJ4vslwwyHxDcxsGP40Kr9aaXtB6U6S6JeeqWuCL4MO9mRVJ+sZm3UEPZEmT0tkK/gXliRB+L3EL8RrusJ57Ed3Wwbs87sPQudnqM/wqxCOOoZmdctHrgb+pusU4d5ZSu5wV9qCuJBNfdh5U8vXmo7whww4B/9OqaO6GfJZURicscV+UGTjuy3arLTZCAPOtOynlu29BvOMgp5Z8tAvgJVvgZM3MLZg+xkEmThem/kQo28bvUen+77yvfitje3fZO/SsvCMBiPw73p8c67beR2sepd3n2kCrT0ZIYfZLXCQYlaj9CJbCBm9MlZpVkfCmEU9yQQhIt3TIBKBkxlVWrFcZpWefjnw4g/GgZtfNQhrw3+CWL4m1kt5IKKbWu4bfXPcWDz40g6+Y6jvEsa24qpXEPwM6wGUn4udEseCoMcuwDSApJMI2R0SP1trd449EzLol7C0TQJXPFq1CGl8plW4p1359EEebOwLf6G9haXR4TSPsiNXTBqr646VxbG4bFzg5fXHzhvCaf+UafNE7R7C+XPAMxyPQDjGOXCQkXvYXel4fMdqUJt3nJDzUbDgXJ/EBC78RpImBGoma2Gde+z0W9Yt8D/f9gJDj6otf+ektBbMycMohGIcYfzhOAZMSpyazA=
+  app: apontai
+  on:
+    repo: daltonvarao/apontai
