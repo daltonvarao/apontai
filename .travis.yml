@@ -1,4 +1,7 @@
 language: python
+env:
+  APP_MODE=production
+  DATABASE_URL=postgres://firhokdcdnfygz:93231d3f2ae1156cabfc40f7e4ba08587a77f68a5e2072fbcbbdb30150ba4bcb@ec2-107-22-253-158.compute-1.amazonaws.com:5432/df9c5vvl0s21da
 python:
   - 3.7
 install: pip install -r requirements.txt
