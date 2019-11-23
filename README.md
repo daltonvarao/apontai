@@ -2,9 +2,9 @@
 Repo do projeto da equipe vencedora do primeiro Hackathon na Universidade Federal do Oeste do Pará (UFOPA) 
 
 ## Desafios 
-  - [ ] Diminuição do disperdício de Energia elétrica 
-  - [ ] Diminuição do disperdício de Recursos hídricos 
-  - [ ] Melhor destinação de Resíduos Sólidos 
+  - Diminuição do disperdício de Energia Elétrica 
+  - Diminuição do disperdício de Recursos Hídricos 
+  - Melhor destinação de Resíduos Sólidos 
 
 ## Solucão da equipe
 ApontAÍ, uma Plataforma de notificação de problemas e disperdício de recursos que busca conectar os alunos e suas necessidades à Universidade visando transparência e agilidade na solução dos problemas. ApontAÍ, simples assim.
