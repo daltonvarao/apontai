@@ -82,5 +82,3 @@ def reclamar(reclamacao_id):
     db.session.commit()
     flash('Sucesso!', 'success')
     return redirect(url_for('reclamacao.index_reclamacoes', status=['abertos']))
-
-

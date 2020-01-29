@@ -1,0 +1,2604 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1200"
+   height="680"
+   viewBox="0 0 317.49999 179.91667"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (unknown)"
+   sodipodi:docname="towerdefense.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="-34.185186"
+     inkscape:cy="95.819016"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1407"
+       dotted="true"
+       spacingx="1.3229167"
+       spacingy="1.3229167"
+       empspacing="1"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-117.08332)">
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.04384184;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1401"
+       width="25.135418"
+       height="21.166664"
+       x="-160.07292"
+       y="81.364571"
+       ry="0" />
+    <g
+       transform="matrix(0.66666667,0,0,0.66666667,41.451945,135.31885)"
+       id="g1026">
+      <rect
+         y="144.5621"
+         x="442.98795"
+         height="19.84375"
+         width="5.1389856"
+         id="rect1032"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.89218974;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.89218974;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1022"
+         width="5.1389856"
+         height="19.84375"
+         x="451.77881"
+         y="144.5621" />
+    </g>
+    <g
+       id="g1051"
+       transform="matrix(0.68627454,0,0,0.68627454,-247.33943,-5.9480905)"
+       inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/pause.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         y="272.62613"
+         x="294.63242"
+         height="19.276785"
+         width="19.276785"
+         id="rect1036"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.01315784;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.88478255;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1038"
+         width="3.7994823"
+         height="11.398447"
+         x="299.25549"
+         y="276.60565" />
+      <rect
+         y="276.60565"
+         x="305.48669"
+         height="11.398447"
+         width="3.7994823"
+         id="rect1040"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.88478255;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path1066"
+       d="m 164.83067,415.81347 h 111.18412 l -13.36347,59.20759 -87.66441,-0.53454 z"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -82.047695,371.74951 H 29.13643 l -13.363476,59.20759 -87.664407,-0.53454 z"
+       id="rect1063"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.05855036;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1068"
+       width="75.904541"
+       height="13.898015"
+       x="-71.356918"
+       y="437.41446" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.23064709;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1070"
+       cx="-58.908707"
+       cy="463.23154"
+       r="8.7440405" />
+    <circle
+       r="8.7440405"
+       cy="463.23154"
+       cx="-0.78923798"
+       id="circle1074"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.23064709;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.25225115;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1078"
+       width="41.159504"
+       height="13.898015"
+       x="377.34775"
+       y="-203.63762"
+       transform="rotate(90)" />
+    <rect
+       y="-247.69772"
+       x="377.34775"
+       height="13.898015"
+       width="41.159504"
+       id="rect1128"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.25225115;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="rotate(90)" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.26518726;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1130"
+       width="232.85176"
+       height="29.482143"
+       x="-377.57721"
+       y="269.42999" />
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1132"
+       sodipodi:sides="3"
+       sodipodi:cx="-117.8652"
+       sodipodi:cy="284.17106"
+       sodipodi:r1="53.720509"
+       sodipodi:r2="26.860254"
+       sodipodi:arg1="0"
+       sodipodi:arg2="1.0471976"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m -64.144688,284.17105 -40.290382,23.26166 -40.29038,23.26167 0,-46.52333 0,-46.52332 40.29038,23.26166 z"
+       inkscape:transform-center-x="-13.430129"
+       inkscape:transform-center-y="-1.2952381e-06" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot950"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion952"><rect
+           id="rect954"
+           width="2062.8572"
+           height="1354.2858"
+           x="960"
+           y="1565.7142" /></flowRegion><flowPara
+         id="flowPara956" /></flowRoot>    <g
+       id="g1248"
+       transform="translate(22.334656,27.708137)">
+      <rect
+         transform="rotate(90)"
+         y="-365.98181"
+         x="199.13461"
+         height="1.7814748"
+         width="1.7814748"
+         id="rect1030"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.53444248;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         transform="rotate(90)"
+         y="-364.20032"
+         x="197.35313"
+         height="1.7814748"
+         width="1.7814748"
+         id="rect1035"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.53444248;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         transform="rotate(90)"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.53444248;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1037"
+         width="1.7814748"
+         height="1.7814748"
+         x="199.13461"
+         y="-364.20032" />
+      <rect
+         transform="rotate(90)"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.53444248;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1049"
+         width="1.7814748"
+         height="1.7814748"
+         x="195.57166"
+         y="-362.41885" />
+      <rect
+         transform="rotate(90)"
+         y="-362.41885"
+         x="197.35313"
+         height="1.7814748"
+         width="1.7814748"
+         id="rect1051"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.53444248;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         transform="rotate(90)"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.53444248;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1053"
+         width="1.7814748"
+         height="1.7814748"
+         x="199.13461"
+         y="-362.41885" />
+      <rect
+         transform="rotate(90)"
+         y="-358.8559"
+         x="199.13461"
+         height="1.7814748"
+         width="1.7814748"
+         id="rect1071"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.53444248;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         transform="rotate(90)"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.53444248;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1073"
+         width="1.7814748"
+         height="1.7814748"
+         x="199.13461"
+         y="-357.07443" />
+      <rect
+         transform="rotate(90)"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.53444248;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1075"
+         width="1.7814748"
+         height="1.7814748"
+         x="199.13461"
+         y="-360.63736" />
+      <rect
+         transform="rotate(90)"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.53444248;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1077"
+         width="1.7814748"
+         height="1.7814748"
+         x="199.13461"
+         y="-355.29294" />
+      <rect
+         transform="rotate(90)"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.53444248;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1095"
+         width="1.7814748"
+         height="1.7814748"
+         x="199.13461"
+         y="-351.73001" />
+      <rect
+         transform="rotate(90)"
+         y="-349.94852"
+         x="199.13461"
+         height="1.7814748"
+         width="1.7814748"
+         id="rect1097"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.53444248;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         transform="rotate(90)"
+         y="-353.51147"
+         x="199.13461"
+         height="1.7814748"
+         width="1.7814748"
+         id="rect1099"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.53444248;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         transform="rotate(90)"
+         y="-348.16705"
+         x="199.13461"
+         height="1.7814748"
+         width="1.7814748"
+         id="rect1101"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.53444248;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.53444248;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1225"
+         width="1.7814748"
+         height="1.7814748"
+         x="200.91609"
+         y="-364.20032"
+         transform="rotate(90)" />
+      <rect
+         y="-362.41885"
+         x="200.91609"
+         height="1.7814748"
+         width="1.7814748"
+         id="rect1227"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.53444248;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="rotate(90)" />
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.53444248;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1229"
+         width="1.7814748"
+         height="1.7814748"
+         x="202.69757"
+         y="-362.41885"
+         transform="rotate(90)" />
+    </g>
+    <g
+       id="g1868"
+       transform="matrix(0.79287605,0,0,0.79287605,-86.509286,-60.944112)"
+       inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/sell.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         transform="translate(-241.78082,111.40701)"
+         id="g1007">
+        <text
+           id="text948"
+           y="170.01103"
+           x="293.25122"
+           style="font-style:normal;font-weight:normal;font-size:1.09101474px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.02727537"
+           xml:space="preserve"><tspan
+             id="tspan946"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.32125854px;font-family:'Eight-Bit Madness';-inkscape-font-specification:'Eight-Bit Madness';stroke-width:0.02727537"
+             y="170.01103"
+             x="293.25122"
+             sodipodi:role="line">Sell</tspan></text>
+      </g>
+      <g
+         transform="translate(-293.93219,86.922972)"
+         id="g1737">
+        <rect
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.53444248;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1703"
+           width="1.7814748"
+           height="1.7814748"
+           x="199.13461"
+           y="-365.98181"
+           transform="rotate(90)" />
+        <rect
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.53444248;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1705"
+           width="1.7814748"
+           height="1.7814748"
+           x="197.35313"
+           y="-364.20032"
+           transform="rotate(90)" />
+        <rect
+           y="-364.20032"
+           x="199.13461"
+           height="1.7814748"
+           width="1.7814748"
+           id="rect1707"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.53444248;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           transform="rotate(90)" />
+        <rect
+           y="-362.41885"
+           x="195.57166"
+           height="1.7814748"
+           width="1.7814748"
+           id="rect1709"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.53444248;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           transform="rotate(90)" />
+        <rect
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.53444248;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1711"
+           width="1.7814748"
+           height="1.7814748"
+           x="197.35313"
+           y="-362.41885"
+           transform="rotate(90)" />
+        <rect
+           y="-362.41885"
+           x="199.13461"
+           height="1.7814748"
+           width="1.7814748"
+           id="rect1713"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.53444248;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           transform="rotate(90)" />
+        <rect
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.53444248;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1715"
+           width="1.7814748"
+           height="1.7814748"
+           x="199.13461"
+           y="-358.8559"
+           transform="rotate(90)" />
+        <rect
+           y="-357.07443"
+           x="199.13461"
+           height="1.7814748"
+           width="1.7814748"
+           id="rect1717"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.53444248;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           transform="rotate(90)" />
+        <rect
+           y="-360.63736"
+           x="199.13461"
+           height="1.7814748"
+           width="1.7814748"
+           id="rect1719"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.53444248;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           transform="rotate(90)" />
+        <rect
+           y="-355.29294"
+           x="199.13461"
+           height="1.7814748"
+           width="1.7814748"
+           id="rect1721"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.53444248;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           transform="rotate(90)" />
+        <rect
+           y="-351.73001"
+           x="199.13461"
+           height="1.7814748"
+           width="1.7814748"
+           id="rect1723"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.53444248;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           transform="rotate(90)" />
+        <rect
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.53444248;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1725"
+           width="1.7814748"
+           height="1.7814748"
+           x="199.13461"
+           y="-349.94852"
+           transform="rotate(90)" />
+        <rect
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.53444248;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1727"
+           width="1.7814748"
+           height="1.7814748"
+           x="199.13461"
+           y="-353.51147"
+           transform="rotate(90)" />
+        <rect
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.53444248;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1729"
+           width="1.7814748"
+           height="1.7814748"
+           x="199.13461"
+           y="-348.16705"
+           transform="rotate(90)" />
+        <rect
+           transform="rotate(90)"
+           y="-364.20032"
+           x="200.91609"
+           height="1.7814748"
+           width="1.7814748"
+           id="rect1731"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.53444248;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           transform="rotate(90)"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.53444248;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1733"
+           width="1.7814748"
+           height="1.7814748"
+           x="200.91609"
+           y="-362.41885" />
+        <rect
+           transform="rotate(90)"
+           y="-362.41885"
+           x="202.69757"
+           height="1.7814748"
+           width="1.7814748"
+           id="rect1735"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.53444248;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="258.71689"
+       y="123.80933"
+       id="text985"><tspan
+         sodipodi:role="line"
+         id="tspan983"
+         x="258.71689"
+         y="133.1731"
+         style="stroke-width:0.26458332" /></text>
+    <g
+       id="g1354"
+       inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/skull.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1006"
+         width="1.0583082"
+         height="1.0583082"
+         x="95.378082"
+         y="63.036453"
+         transform="rotate(90)" />
+      <rect
+         y="64.094795"
+         x="95.378082"
+         height="1.0583082"
+         width="1.0583082"
+         id="rect1010"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="rotate(90)" />
+      <rect
+         y="65.153145"
+         x="95.378082"
+         height="1.0583082"
+         width="1.0583082"
+         id="rect1016"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="rotate(90)" />
+      <rect
+         y="60.91991"
+         x="96.436424"
+         height="1.0583082"
+         width="1.0583082"
+         id="rect1025"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="rotate(90)" />
+      <rect
+         y="63.036453"
+         x="96.436424"
+         height="1.0583082"
+         width="1.0583082"
+         id="rect1027"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="rotate(90)" />
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1033"
+         width="1.0583082"
+         height="1.0583082"
+         x="96.436424"
+         y="65.153145"
+         transform="rotate(90)" />
+      <rect
+         transform="rotate(90)"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1052"
+         width="1.0583082"
+         height="1.0583082"
+         x="95.378082"
+         y="60.91991" />
+      <rect
+         transform="rotate(90)"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1054"
+         width="1.0583082"
+         height="1.0583082"
+         x="95.378082"
+         y="61.978256" />
+      <rect
+         transform="rotate(90)"
+         y="63.036488"
+         x="94.319771"
+         height="1.0583082"
+         width="1.0583082"
+         id="rect1066"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         transform="rotate(90)"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1069"
+         width="1.0583082"
+         height="1.0583082"
+         x="94.319771"
+         y="64.094833" />
+      <rect
+         transform="rotate(90)"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1072"
+         width="1.0583082"
+         height="1.0583082"
+         x="94.319771"
+         y="65.153175" />
+      <rect
+         transform="rotate(90)"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1074"
+         width="1.0583082"
+         height="1.0583082"
+         x="94.319771"
+         y="66.211525" />
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1076"
+         width="1.0583082"
+         height="1.0583082"
+         x="94.319771"
+         y="59.861607"
+         transform="rotate(90)" />
+      <rect
+         y="60.919949"
+         x="94.319771"
+         height="1.0583082"
+         width="1.0583082"
+         id="rect1079"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="rotate(90)" />
+      <rect
+         y="61.978294"
+         x="94.319771"
+         height="1.0583082"
+         width="1.0583082"
+         id="rect1081"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="rotate(90)" />
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1083"
+         width="1.0583082"
+         height="1.0583082"
+         x="93.261467"
+         y="63.036526"
+         transform="rotate(90)" />
+      <rect
+         y="66.211563"
+         x="93.261467"
+         height="1.0583082"
+         width="1.0583082"
+         id="rect1089"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="rotate(90)" />
+      <rect
+         transform="rotate(90)"
+         y="59.861645"
+         x="93.261467"
+         height="1.0583082"
+         width="1.0583082"
+         id="rect1091"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         transform="rotate(90)"
+         y="63.036636"
+         x="92.203156"
+         height="1.0583082"
+         width="1.0583082"
+         id="rect1098"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         transform="rotate(90)"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1100"
+         width="1.0583082"
+         height="1.0583082"
+         x="92.203156"
+         y="64.094986" />
+      <rect
+         transform="rotate(90)"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1102"
+         width="1.0583082"
+         height="1.0583082"
+         x="92.203156"
+         y="65.153328" />
+      <rect
+         transform="rotate(90)"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1104"
+         width="1.0583082"
+         height="1.0583082"
+         x="92.203156"
+         y="66.211678" />
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1106"
+         width="1.0583082"
+         height="1.0583082"
+         x="92.203156"
+         y="59.861755"
+         transform="rotate(90)" />
+      <rect
+         y="60.920097"
+         x="92.203156"
+         height="1.0583082"
+         width="1.0583082"
+         id="rect1108"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="rotate(90)" />
+      <rect
+         y="61.978443"
+         x="92.203156"
+         height="1.0583082"
+         width="1.0583082"
+         id="rect1110"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="rotate(90)" />
+      <rect
+         transform="rotate(90)"
+         y="63.036751"
+         x="91.144844"
+         height="1.0583082"
+         width="1.0583082"
+         id="rect1112"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         transform="rotate(90)"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1114"
+         width="1.0583082"
+         height="1.0583082"
+         x="91.144844"
+         y="64.095093" />
+      <rect
+         transform="rotate(90)"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1116"
+         width="1.0583082"
+         height="1.0583082"
+         x="91.144844"
+         y="65.153442" />
+      <rect
+         y="60.920212"
+         x="91.144844"
+         height="1.0583082"
+         width="1.0583082"
+         id="rect1118"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="rotate(90)" />
+      <rect
+         y="61.978554"
+         x="91.144844"
+         height="1.0583082"
+         width="1.0583082"
+         id="rect1120"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="rotate(90)" />
+      <g
+         transform="matrix(0.19999565,0,0,0.19999565,-91.740979,98.969434)"
+         id="g1138">
+        <rect
+           y="-122.35728"
+           x="-44.415443"
+           height="5.2916565"
+           width="5.2916565"
+           id="rect1129"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.58749723;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           transform="rotate(90)" />
+        <rect
+           y="-117.06541"
+           x="-44.415443"
+           height="5.2916565"
+           width="5.2916565"
+           id="rect1131"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.58749723;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           transform="rotate(90)" />
+        <rect
+           y="-122.3567"
+           x="-49.7071"
+           height="5.2916565"
+           width="5.2916565"
+           id="rect1133"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.58749723;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           transform="rotate(90)" />
+      </g>
+      <g
+         transform="matrix(-0.19999565,0,0,0.19999565,-35.390833,98.969437)"
+         id="g1146">
+        <rect
+           transform="rotate(90)"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.58749723;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1140"
+           width="5.2916565"
+           height="5.2916565"
+           x="-44.415443"
+           y="-122.35728" />
+        <rect
+           transform="rotate(90)"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.58749723;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1142"
+           width="5.2916565"
+           height="5.2916565"
+           x="-44.415443"
+           y="-117.06541" />
+        <rect
+           transform="rotate(90)"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.58749723;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1144"
+           width="5.2916565"
+           height="5.2916565"
+           x="-49.7071"
+           y="-122.3567" />
+      </g>
+      <g
+         transform="matrix(0.19999565,0,0,-0.19999565,-91.74066,88.611837)"
+         id="g1154">
+        <rect
+           transform="rotate(90)"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.58749723;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1148"
+           width="5.2916565"
+           height="5.2916565"
+           x="-44.415443"
+           y="-122.35728" />
+        <rect
+           transform="rotate(90)"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.58749723;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1150"
+           width="5.2916565"
+           height="5.2916565"
+           x="-44.415443"
+           y="-117.06541" />
+        <rect
+           transform="rotate(90)"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.58749723;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1152"
+           width="5.2916565"
+           height="5.2916565"
+           x="-49.7071"
+           y="-122.3567" />
+      </g>
+      <g
+         id="g1162"
+         transform="matrix(-0.19999565,0,0,-0.19999565,-35.390785,88.611837)">
+        <rect
+           y="-122.35728"
+           x="-44.415443"
+           height="5.2916565"
+           width="5.2916565"
+           id="rect1156"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.58749723;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           transform="rotate(90)" />
+        <rect
+           y="-117.06541"
+           x="-44.415443"
+           height="5.2916565"
+           width="5.2916565"
+           id="rect1158"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.58749723;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           transform="rotate(90)" />
+        <rect
+           y="-122.3567"
+           x="-49.7071"
+           height="5.2916565"
+           width="5.2916565"
+           id="rect1160"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.58749723;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           transform="rotate(90)" />
+      </g>
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:0;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1103"
+         width="13.229167"
+         height="13.229167"
+         x="-70.180466"
+         y="87.176056"
+         inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/skull.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <rect
+         transform="rotate(90)"
+         y="65.153145"
+         x="96.436424"
+         height="1.0583082"
+         width="1.0583082"
+         id="rect1249"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1442"
+       width="1.0583082"
+       height="1.0583082"
+       x="98.779869"
+       y="101.59003"
+       transform="rotate(90)" />
+    <rect
+       y="102.64837"
+       x="98.779869"
+       height="1.0583082"
+       width="1.0583082"
+       id="rect1444"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="rotate(90)" />
+    <rect
+       y="103.70672"
+       x="98.779869"
+       height="1.0583082"
+       width="1.0583082"
+       id="rect1446"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="rotate(90)" />
+    <rect
+       y="99.47348"
+       x="99.838211"
+       height="1.0583082"
+       width="1.0583082"
+       id="rect1448"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="rotate(90)" />
+    <rect
+       y="101.59003"
+       x="99.838211"
+       height="1.0583082"
+       width="1.0583082"
+       id="rect1450"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="rotate(90)" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1452"
+       width="1.0583082"
+       height="1.0583082"
+       x="99.838211"
+       y="103.70672"
+       transform="rotate(90)" />
+    <rect
+       transform="rotate(90)"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1454"
+       width="1.0583082"
+       height="1.0583082"
+       x="98.779869"
+       y="99.47348" />
+    <rect
+       transform="rotate(90)"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1456"
+       width="1.0583082"
+       height="1.0583082"
+       x="98.779869"
+       y="100.53183" />
+    <rect
+       transform="rotate(90)"
+       y="101.59006"
+       x="97.721558"
+       height="1.0583082"
+       width="1.0583082"
+       id="rect1458"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       transform="rotate(90)"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1460"
+       width="1.0583082"
+       height="1.0583082"
+       x="97.721558"
+       y="102.64841" />
+    <rect
+       transform="rotate(90)"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1462"
+       width="1.0583082"
+       height="1.0583082"
+       x="97.721558"
+       y="103.70675" />
+    <rect
+       transform="rotate(90)"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1464"
+       width="1.0583082"
+       height="1.0583082"
+       x="97.721558"
+       y="104.7651" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1466"
+       width="1.0583082"
+       height="1.0583082"
+       x="97.721558"
+       y="98.415176"
+       transform="rotate(90)" />
+    <rect
+       y="99.473518"
+       x="97.721558"
+       height="1.0583082"
+       width="1.0583082"
+       id="rect1468"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="rotate(90)" />
+    <rect
+       y="100.53187"
+       x="97.721558"
+       height="1.0583082"
+       width="1.0583082"
+       id="rect1470"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="rotate(90)" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1472"
+       width="1.0583082"
+       height="1.0583082"
+       x="96.663254"
+       y="101.5901"
+       transform="rotate(90)" />
+    <rect
+       y="104.76514"
+       x="96.663254"
+       height="1.0583082"
+       width="1.0583082"
+       id="rect1474"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="rotate(90)" />
+    <rect
+       transform="rotate(90)"
+       y="98.415215"
+       x="96.663254"
+       height="1.0583082"
+       width="1.0583082"
+       id="rect1476"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       transform="rotate(90)"
+       y="101.59021"
+       x="95.604942"
+       height="1.0583082"
+       width="1.0583082"
+       id="rect1478"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       transform="rotate(90)"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1480"
+       width="1.0583082"
+       height="1.0583082"
+       x="95.604942"
+       y="102.64856" />
+    <rect
+       transform="rotate(90)"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1482"
+       width="1.0583082"
+       height="1.0583082"
+       x="95.604942"
+       y="103.7069" />
+    <rect
+       transform="rotate(90)"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1484"
+       width="1.0583082"
+       height="1.0583082"
+       x="95.604942"
+       y="104.76525" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1486"
+       width="1.0583082"
+       height="1.0583082"
+       x="95.604942"
+       y="98.415329"
+       transform="rotate(90)" />
+    <rect
+       y="99.473671"
+       x="95.604942"
+       height="1.0583082"
+       width="1.0583082"
+       id="rect1488"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="rotate(90)" />
+    <rect
+       y="100.53201"
+       x="95.604942"
+       height="1.0583082"
+       width="1.0583082"
+       id="rect1490"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="rotate(90)" />
+    <rect
+       transform="rotate(90)"
+       y="101.59032"
+       x="94.546631"
+       height="1.0583082"
+       width="1.0583082"
+       id="rect1492"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       transform="rotate(90)"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1494"
+       width="1.0583082"
+       height="1.0583082"
+       x="94.546631"
+       y="102.64867" />
+    <rect
+       transform="rotate(90)"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1496"
+       width="1.0583082"
+       height="1.0583082"
+       x="94.546631"
+       y="103.70702" />
+    <rect
+       y="99.473785"
+       x="94.546631"
+       height="1.0583082"
+       width="1.0583082"
+       id="rect1498"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="rotate(90)" />
+    <rect
+       y="100.53213"
+       x="94.546631"
+       height="1.0583082"
+       width="1.0583082"
+       id="rect1500"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="rotate(90)" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:0;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1534"
+       width="13.229167"
+       height="13.229167"
+       x="-108.73404"
+       y="90.577843"
+       inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/skull.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       transform="rotate(90)"
+       y="103.70672"
+       x="99.838211"
+       height="1.0583082"
+       width="1.0583082"
+       id="rect1536"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       id="g1884"
+       inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/tower.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(-18.520839,3.9687494)">
+      <rect
+         y="82.687477"
+         x="-130.30728"
+         height="15.875003"
+         width="13.229167"
+         id="rect1279"
+         style="opacity:1;fill:#ffffff;fill-opacity:0;stroke:none;stroke-width:1.09544516;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="123.03126"
+         x="-84.010384"
+         height="1.3229175"
+         width="1.3229153"
+         id="rect1376"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.39687499;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="matrix(0,-1,-1,0,0,0)" />
+      <path
+         sodipodi:nodetypes="ccccccccccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="rect1812"
+         d="m -128.32292,85.333321 1.32292,-6e-6 v 1.322916 h 1.32291 v -1.322916 h 1.32292 v 1.322916 h 1.32292 v -1.322916 h 1.32291 v 1.322916 h 1.32292 v -1.322916 h 1.32292 v 3.96875 h -1.32292 v 5.291667 h 1.32292 v 2.645833 h 1.32291 v 1.322917 h -11.90625 v -1.322917 h 1.32292 V 94.593732 H -127 v -5.291667 h -1.32292 z"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         transform="matrix(0,-1,-1,0,0,0)"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.56126583;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1876"
+         width="2.6458287"
+         height="1.3229175"
+         x="-91.947899"
+         y="123.03125" />
+    </g>
+    <rect
+       y="104.51042"
+       x="89.302063"
+       height="1.0583082"
+       width="1.0583082"
+       id="rect1886"
+       style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="rotate(90)"
+       inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/shoot.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g1544">
+      <rect
+         transform="rotate(90)"
+         y="63.235352"
+         x="112.58544"
+         height="1.0583082"
+         width="1.0583082"
+         id="rect1271"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         transform="rotate(90)"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1273"
+         width="1.0583082"
+         height="1.0583082"
+         x="112.58544"
+         y="64.293694" />
+      <rect
+         transform="rotate(90)"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1275"
+         width="1.0583082"
+         height="1.0583082"
+         x="112.58544"
+         y="65.352043" />
+      <rect
+         transform="rotate(90)"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1281"
+         width="1.0583082"
+         height="1.0583082"
+         x="113.64378"
+         y="63.235352" />
+      <rect
+         transform="rotate(90)"
+         y="65.352043"
+         x="113.64378"
+         height="1.0583082"
+         width="1.0583082"
+         id="rect1283"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="62.177155"
+         x="112.58544"
+         height="1.0583082"
+         width="1.0583082"
+         id="rect1287"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="rotate(90)" />
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1289"
+         width="1.0583082"
+         height="1.0583082"
+         x="111.52713"
+         y="63.235386"
+         transform="rotate(90)" />
+      <rect
+         y="64.293732"
+         x="111.52713"
+         height="1.0583082"
+         width="1.0583082"
+         id="rect1291"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="rotate(90)" />
+      <rect
+         y="65.352074"
+         x="111.52713"
+         height="1.0583082"
+         width="1.0583082"
+         id="rect1293"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="rotate(90)" />
+      <rect
+         y="66.410423"
+         x="111.52713"
+         height="1.0583082"
+         width="1.0583082"
+         id="rect1295"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="rotate(90)" />
+      <rect
+         transform="rotate(90)"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1299"
+         width="1.0583082"
+         height="1.0583082"
+         x="111.52713"
+         y="61.118847" />
+      <rect
+         transform="rotate(90)"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1301"
+         width="1.0583082"
+         height="1.0583082"
+         x="111.52713"
+         y="62.177193" />
+      <rect
+         transform="rotate(90)"
+         y="63.235424"
+         x="110.46883"
+         height="1.0583082"
+         width="1.0583082"
+         id="rect1303"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         transform="rotate(90)"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1305"
+         width="1.0583082"
+         height="1.0583082"
+         x="110.46883"
+         y="66.410461" />
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1307"
+         width="1.0583082"
+         height="1.0583082"
+         x="110.46883"
+         y="60.060543"
+         transform="rotate(90)" />
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1309"
+         width="1.0583082"
+         height="1.0583082"
+         x="109.41051"
+         y="63.235535"
+         transform="rotate(90)" />
+      <rect
+         y="64.293884"
+         x="109.41051"
+         height="1.0583082"
+         width="1.0583082"
+         id="rect1311"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="rotate(90)" />
+      <rect
+         y="65.352226"
+         x="109.41051"
+         height="1.0583082"
+         width="1.0583082"
+         id="rect1313"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="rotate(90)" />
+      <rect
+         transform="rotate(90)"
+         y="60.060654"
+         x="109.41051"
+         height="1.0583082"
+         width="1.0583082"
+         id="rect1317"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         transform="rotate(90)"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1319"
+         width="1.0583082"
+         height="1.0583082"
+         x="109.41051"
+         y="61.118996" />
+      <rect
+         transform="rotate(90)"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1321"
+         width="1.0583082"
+         height="1.0583082"
+         x="109.41051"
+         y="62.177341" />
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1323"
+         width="1.0583082"
+         height="1.0583082"
+         x="108.3522"
+         y="63.235649"
+         transform="rotate(90)" />
+      <rect
+         y="64.293991"
+         x="108.3522"
+         height="1.0583082"
+         width="1.0583082"
+         id="rect1325"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="rotate(90)" />
+      <rect
+         transform="rotate(90)"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1329"
+         width="1.0583082"
+         height="1.0583082"
+         x="108.3522"
+         y="61.11911" />
+      <rect
+         transform="rotate(90)"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1331"
+         width="1.0583082"
+         height="1.0583082"
+         x="108.3522"
+         y="62.177452" />
+      <rect
+         y="67.468956"
+         x="107.29389"
+         height="1.0583082"
+         width="1.0583082"
+         id="rect1333"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="rotate(90)" />
+      <rect
+         y="68.527306"
+         x="107.29389"
+         height="1.0583082"
+         width="1.0583082"
+         id="rect1335"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="rotate(90)" />
+      <rect
+         transform="matrix(0,1,1,0,0,0)"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1343"
+         width="1.0583082"
+         height="1.0583082"
+         x="107.29391"
+         y="-59.002304" />
+      <rect
+         transform="matrix(0,1,1,0,0,0)"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1345"
+         width="1.0583082"
+         height="1.0583082"
+         x="106.2356"
+         y="-60.060539" />
+      <rect
+         transform="matrix(0,-1,-1,0,0,0)"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1351"
+         width="1.0583082"
+         height="1.0583082"
+         x="-114.70209"
+         y="68.526985" />
+      <rect
+         transform="matrix(0,-1,-1,0,0,0)"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1353"
+         width="1.0583082"
+         height="1.0583082"
+         x="-115.76039"
+         y="67.46875" />
+      <rect
+         y="-60.060608"
+         x="-114.70209"
+         height="1.0583082"
+         width="1.0583082"
+         id="rect1357"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="rotate(-90)" />
+      <rect
+         y="-60.06049"
+         x="-115.76039"
+         height="1.0583082"
+         width="1.0583082"
+         id="rect1361"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="rotate(-90)" />
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/skull.png"
+         y="104.38342"
+         x="-70.379364"
+         height="13.229167"
+         width="13.229167"
+         id="rect1365"
+         style="opacity:1;fill:#ffffff;fill-opacity:0;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31749254;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1367"
+         width="1.0583082"
+         height="1.0583082"
+         x="113.64378"
+         y="65.352043"
+         transform="rotate(90)" />
+    </g>
+    <rect
+       y="201.74998"
+       x="-48.947918"
+       height="13.229162"
+       width="13.229167"
+       id="rect1443"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.38157892;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/start.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:0.86503947px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.02162599"
+       x="-87.037689"
+       y="168.96724"
+       id="text1461"><tspan
+         sodipodi:role="line"
+         x="-87.037689"
+         y="168.96724"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.76923084px;font-family:'Eight-Bit Madness';-inkscape-font-specification:'Eight-Bit Madness';stroke-width:0.02162599"
+         id="tspan1459">Sell</tspan></text>
+    <rect
+       transform="rotate(90)"
+       y="76.370888"
+       x="172.64581"
+       height="1.4124887"
+       width="1.4124887"
+       id="rect1477"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.42374665;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       transform="rotate(90)"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.42374665;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1479"
+       width="1.4124887"
+       height="1.4124887"
+       x="172.64581"
+       y="77.783363" />
+    <rect
+       transform="rotate(90)"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.42374665;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1481"
+       width="1.4124887"
+       height="1.4124887"
+       x="172.64581"
+       y="74.958405" />
+    <rect
+       transform="rotate(90)"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.42374665;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1483"
+       width="1.4124887"
+       height="1.4124887"
+       x="172.64581"
+       y="79.195869" />
+    <rect
+       transform="rotate(90)"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.42374665;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1485"
+       width="1.4124887"
+       height="1.4124887"
+       x="172.64581"
+       y="82.020828" />
+    <rect
+       transform="rotate(90)"
+       y="83.433334"
+       x="172.64581"
+       height="1.4124887"
+       width="1.4124887"
+       id="rect1487"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.42374665;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       transform="rotate(90)"
+       y="80.608345"
+       x="172.64581"
+       height="1.4124887"
+       width="1.4124887"
+       id="rect1489"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.42374665;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       transform="rotate(90)"
+       y="84.84581"
+       x="172.64581"
+       height="1.4124887"
+       width="1.4124887"
+       id="rect1491"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.42374665;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       transform="rotate(90)"
+       y="56.706253"
+       x="203.16248"
+       height="1.4124887"
+       width="1.4124887"
+       id="rect1465"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.42374665;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       transform="rotate(90)"
+       y="58.118759"
+       x="201.74998"
+       height="1.4124887"
+       width="1.4124887"
+       id="rect1467"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.42374665;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       transform="rotate(90)"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.42374665;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1469"
+       width="1.4124887"
+       height="1.4124887"
+       x="203.16248"
+       y="58.118759" />
+    <rect
+       transform="rotate(90)"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.42374665;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1471"
+       width="1.4124887"
+       height="1.4124887"
+       x="200.33749"
+       y="59.531235" />
+    <rect
+       transform="rotate(90)"
+       y="59.531235"
+       x="201.74998"
+       height="1.4124887"
+       width="1.4124887"
+       id="rect1473"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.42374665;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       transform="rotate(90)"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.42374665;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1475"
+       width="1.4124887"
+       height="1.4124887"
+       x="203.16248"
+       y="59.531235" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.42374665;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1493"
+       width="1.4124887"
+       height="1.4124887"
+       x="204.57497"
+       y="58.118759"
+       transform="rotate(90)" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.42374665;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1497"
+       width="1.4124887"
+       height="1.4124887"
+       x="205.98746"
+       y="59.531235"
+       transform="rotate(90)" />
+    <path
+       sodipodi:nodetypes="ccccccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="rect1615"
+       d="m -39.6875,207.70311 v 1.32292 h -1.322917 v 1.32291 h -1.322917 v 1.32292 h -1.322916 v 1.32292 h -1.322918 v -9.26042 h 1.322918 v 1.32292 h 1.322916 v 1.32291 h 1.322917 v 1.32292 z"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.38341767;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/start.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g1884-5"
+       inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/tower.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="translate(101.86459,194.46875)">
+      <rect
+         y="82.687477"
+         x="-130.30728"
+         height="15.875003"
+         width="13.229167"
+         id="rect1279-6"
+         style="opacity:1;fill:#ffffff;fill-opacity:0;stroke:none;stroke-width:1.09544516;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="123.03126"
+         x="-84.010384"
+         height="1.3229175"
+         width="1.3229153"
+         id="rect1376-2"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.39687499;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="matrix(0,-1,-1,0,0,0)" />
+      <path
+         sodipodi:nodetypes="ccccccccccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="rect1812-9"
+         d="m -128.32292,85.333321 1.32292,-6e-6 v 1.322916 h 1.32291 v -1.322916 h 1.32292 v 1.322916 h 1.32292 v -1.322916 h 1.32291 v 1.322916 h 1.32292 v -1.322916 h 1.32292 v 3.96875 h -1.32292 v 5.291667 h 1.32292 v 2.645833 h 1.32291 v 1.322917 h -11.90625 v -1.322917 h 1.32292 V 94.593732 H -127 v -5.291667 h -1.32292 z"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         transform="matrix(0,-1,-1,0,0,0)"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.56126583;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1876-1"
+         width="2.6458287"
+         height="1.3229175"
+         x="-91.947899"
+         y="123.03125" />
+    </g>
+    <g
+       id="g1482">
+      <g
+         transform="matrix(1,0,0,-1,0,414.08331)"
+         id="g1215">
+        <rect
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect815"
+           width="317.5"
+           height="179.91667"
+           x="0"
+           y="-297"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect817"
+           width="13.229167"
+           height="13.229167"
+           x="13.229162"
+           y="-297"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           y="-283.77081"
+           x="13.229162"
+           height="13.229167"
+           width="13.229167"
+           id="rect819"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect821"
+           width="13.229167"
+           height="13.229167"
+           x="13.229162"
+           y="-270.54166"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect825"
+           width="13.229167"
+           height="13.229167"
+           x="13.229162"
+           y="-257.31247"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           y="-244.08328"
+           x="13.229162"
+           height="13.229167"
+           width="13.229167"
+           id="rect827"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect829"
+           width="13.229167"
+           height="13.229167"
+           x="26.458344"
+           y="-244.08328"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           y="-244.08328"
+           x="39.687519"
+           height="13.229167"
+           width="13.229167"
+           id="rect831"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect833"
+           width="13.229167"
+           height="13.229167"
+           x="52.916687"
+           y="-244.08328"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect837"
+           width="13.229167"
+           height="13.229167"
+           x="52.916687"
+           y="-230.85408"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           y="-217.62492"
+           x="52.916687"
+           height="13.229167"
+           width="13.229167"
+           id="rect839"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect841"
+           width="13.229167"
+           height="13.229167"
+           x="66.145851"
+           y="-164.70811"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect853"
+           width="13.229167"
+           height="13.229167"
+           x="0"
+           y="-191.16656"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           y="-244.0833"
+           x="119.06253"
+           height="13.229167"
+           width="13.229167"
+           id="rect855"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect857"
+           width="13.229167"
+           height="13.229167"
+           x="105.83336"
+           y="-244.0833"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           y="-164.70811"
+           x="105.83337"
+           height="13.229167"
+           width="13.229167"
+           id="rect859"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           y="-283.77081"
+           x="119.06253"
+           height="13.229167"
+           width="13.229167"
+           id="rect861"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect863"
+           width="13.229167"
+           height="13.229167"
+           x="119.06253"
+           y="-270.54163"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect867"
+           width="13.229167"
+           height="13.229167"
+           x="119.06253"
+           y="-257.31247"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect869"
+           width="13.229167"
+           height="13.229167"
+           x="171.97923"
+           y="-270.54166"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect873"
+           width="13.229167"
+           height="13.229167"
+           x="171.97923"
+           y="-257.31247"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           y="-244.08328"
+           x="171.97923"
+           height="13.229167"
+           width="13.229167"
+           id="rect875"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect877"
+           width="13.229167"
+           height="13.229167"
+           x="171.97923"
+           y="-283.77081"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           y="-283.77081"
+           x="158.75005"
+           height="13.229167"
+           width="13.229167"
+           id="rect879"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           y="-283.77081"
+           x="132.2917"
+           height="13.229167"
+           width="13.229167"
+           id="rect883"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           y="-191.16656"
+           x="52.916687"
+           height="13.229167"
+           width="13.229167"
+           id="rect885"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect887"
+           width="13.229167"
+           height="13.229167"
+           x="52.916687"
+           y="-177.93738"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           y="-164.70811"
+           x="52.916687"
+           height="13.229167"
+           width="13.229167"
+           id="rect889"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect895"
+           width="13.229167"
+           height="13.229167"
+           x="105.83336"
+           y="-230.85408"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           y="-217.62492"
+           x="105.83336"
+           height="13.229167"
+           width="13.229167"
+           id="rect897"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect899"
+           width="13.229167"
+           height="13.229167"
+           x="105.83336"
+           y="-191.16655"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           y="-177.93739"
+           x="105.83336"
+           height="13.229167"
+           width="13.229167"
+           id="rect901"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           y="-230.85408"
+           x="158.75006"
+           height="13.229167"
+           width="13.229167"
+           id="rect907"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect909"
+           width="13.229167"
+           height="13.229167"
+           x="158.75006"
+           y="-217.62489"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           y="-191.16655"
+           x="158.75006"
+           height="13.229167"
+           width="13.229167"
+           id="rect911"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect913"
+           width="13.229167"
+           height="13.229167"
+           x="158.75006"
+           y="-177.93736"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect915"
+           width="13.229167"
+           height="13.229167"
+           x="171.97923"
+           y="-177.93738"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           y="-164.70808"
+           x="211.66673"
+           height="13.229167"
+           width="13.229167"
+           id="rect917"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           y="-164.70811"
+           x="171.97922"
+           height="13.229167"
+           width="13.229167"
+           id="rect921"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           y="-230.85408"
+           x="211.66673"
+           height="13.229167"
+           width="13.229167"
+           id="rect925"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect927"
+           width="13.229167"
+           height="13.229167"
+           x="211.66673"
+           y="-217.62489"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           y="-191.16656"
+           x="211.66673"
+           height="13.229167"
+           width="13.229167"
+           id="rect929"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect931"
+           width="13.229167"
+           height="13.229167"
+           x="211.66673"
+           y="-177.93738"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect945"
+           width="13.229167"
+           height="13.229167"
+           x="185.20839"
+           y="-164.70808"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect947"
+           width="13.229167"
+           height="13.229167"
+           x="198.43756"
+           y="-164.70808"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect951"
+           width="13.229167"
+           height="13.229167"
+           x="13.229167"
+           y="-191.16655"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           y="-177.93739"
+           x="13.229167"
+           height="13.229167"
+           width="13.229167"
+           id="rect953"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect955"
+           width="13.229167"
+           height="13.229167"
+           x="13.229167"
+           y="-164.70808"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect957"
+           width="13.229167"
+           height="13.229167"
+           x="26.458351"
+           y="-164.70811"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect959"
+           width="13.229167"
+           height="13.229167"
+           x="39.687515"
+           y="-164.70811"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           y="-257.31244"
+           x="211.66673"
+           height="13.229167"
+           width="13.229167"
+           id="rect983"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect985"
+           width="13.229167"
+           height="13.229167"
+           x="211.66673"
+           y="-244.08328"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect987"
+           width="13.229167"
+           height="13.229167"
+           x="211.66673"
+           y="-270.54163"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           y="-270.54163"
+           x="224.8959"
+           height="13.229167"
+           width="13.229167"
+           id="rect989"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           y="-270.54163"
+           x="251.35425"
+           height="13.229167"
+           width="13.229167"
+           id="rect991"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect935"
+           width="13.229167"
+           height="13.229167"
+           x="264.58377"
+           y="-270.54163"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect943"
+           width="13.229167"
+           height="13.229167"
+           x="277.81305"
+           y="-270.54163"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1011"
+           width="13.229167"
+           height="13.229167"
+           x="277.81305"
+           y="-217.62491"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1013"
+           width="13.229167"
+           height="13.229167"
+           x="277.81305"
+           y="-230.85408"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           y="-257.31244"
+           x="277.81305"
+           height="13.229167"
+           width="13.229167"
+           id="rect1015"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1017"
+           width="13.229167"
+           height="13.229167"
+           x="277.81305"
+           y="-244.08325"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.36564159;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1026"
+           width="15.875"
+           height="317.5"
+           x="-132.95831"
+           y="-317.5"
+           transform="matrix(0,-1,-1,0,0,0)"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96" />
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1057"
+           width="13.229167"
+           height="13.229167"
+           x="92.604179"
+           y="-164.70811"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           y="-230.85408"
+           x="171.97923"
+           height="13.229167"
+           width="13.229167"
+           id="rect1061"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           y="-164.70811"
+           x="79.375015"
+           height="13.229167"
+           width="13.229167"
+           id="rect1870"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1872"
+           width="13.229167"
+           height="13.229167"
+           x="145.52087"
+           y="-283.77081"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           transform="scale(1,-1)" />
+        <rect
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1356"
+           width="13.229167"
+           height="13.229167"
+           x="52.916687"
+           y="-204.39575"
+           transform="scale(1,-1)" />
+        <rect
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1358"
+           width="13.229167"
+           height="13.229167"
+           x="105.83336"
+           y="-204.39575"
+           transform="scale(1,-1)" />
+        <rect
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           y="-204.39572"
+           x="158.75006"
+           height="13.229167"
+           width="13.229167"
+           id="rect1360"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           transform="scale(1,-1)" />
+        <rect
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           y="-204.39572"
+           x="211.66673"
+           height="13.229167"
+           width="13.229167"
+           id="rect1362"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           transform="scale(1,-1)" />
+        <rect
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           y="-204.39574"
+           x="277.81305"
+           height="13.229167"
+           width="13.229167"
+           id="rect1364"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           transform="scale(1,-1)" />
+        <rect
+           inkscape:export-ydpi="96"
+           inkscape:export-xdpi="96"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1366"
+           width="13.229167"
+           height="13.229167"
+           x="238.12508"
+           y="-270.54163"
+           transform="scale(1,-1)" />
+        <g
+           id="g1192"
+           inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/player.png"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96">
+          <rect
+             transform="scale(1,-1)"
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:6.59999895;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect973"
+             width="29.104156"
+             height="29.104168"
+             x="269.87503"
+             y="-191.16666" />
+        </g>
+        <g
+           id="g1367"
+           transform="translate(3.6239624e-5,1.2993813e-5)">
+          <rect
+             style="opacity:1;fill:#61bb46;fill-opacity:1;stroke:none;stroke-width:1.71464109;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect1113"
+             width="18.520832"
+             height="3.0868003"
+             x="275.16666"
+             y="182.78818"
+             inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <rect
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+             y="179.70137"
+             x="275.16666"
+             height="3.0868063"
+             width="18.520832"
+             id="rect1115"
+             style="opacity:1;fill:#fdb827;fill-opacity:1;stroke:none;stroke-width:1.71464276;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <rect
+             style="opacity:1;fill:#f5821f;fill-opacity:1;stroke:none;stroke-width:1.71464241;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect1117"
+             width="18.520832"
+             height="3.0868058"
+             x="275.16666"
+             y="176.61456"
+             inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <rect
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+             y="173.52776"
+             x="275.16666"
+             height="3.0868003"
+             width="18.520832"
+             id="rect1119"
+             style="opacity:1;fill:#e03a3e;fill-opacity:1;stroke:none;stroke-width:1.71464109;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <rect
+             style="opacity:1;fill:#963d97;fill-opacity:1;stroke:none;stroke-width:1.71464276;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect1121"
+             width="18.520832"
+             height="3.0868063"
+             x="275.16666"
+             y="170.44095"
+             inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+             inkscape:export-xdpi="96"
+             inkscape:export-ydpi="96" />
+          <rect
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/background.png"
+             y="167.35414"
+             x="275.16666"
+             height="3.0868058"
+             width="18.520832"
+             id="rect1123"
+             style="opacity:1;fill:#009ddc;fill-opacity:1;stroke:none;stroke-width:1.71464241;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        </g>
+      </g>
+      <rect
+         y="238.79166"
+         x="52.916664"
+         height="31.750011"
+         width="211.66667"
+         id="rect1217"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.74198234;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:0.71339911px;line-height:0.5;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.01783498"
+       x="-75.596687"
+       y="242.95554"
+       id="text1140"
+       inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/buy.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="-75.596687"
+         y="242.95554"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.46473026px;line-height:0.75;font-family:'Eight-Bit Madness';-inkscape-font-specification:'Eight-Bit Madness';text-align:start;text-anchor:start;stroke-width:0.01783498"
+         id="tspan1848">Buy</tspan><tspan
+         sodipodi:role="line"
+         x="-75.596687"
+         y="250.17857"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.46473026px;line-height:0.75;font-family:'Eight-Bit Madness';-inkscape-font-specification:'Eight-Bit Madness';text-align:start;text-anchor:start;stroke-width:0.01783498"
+         id="tspan1130">$ 100</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:0.47567111px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.01189178"
+       x="-46.654671"
+       y="242.82269"
+       id="text1139"
+       inkscape:export-filename="/home/dalton/projects/tower_defense/game/assets/upgrade.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="-46.654671"
+         y="242.82269"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.46473026px;line-height:0.75;font-family:'Eight-Bit Madness';-inkscape-font-specification:'Eight-Bit Madness';stroke-width:0.01189178"
+         id="tspan1137">Upgrade</tspan><tspan
+         sodipodi:role="line"
+         x="-46.654671"
+         y="250.22644"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.46473026px;line-height:0.75;font-family:'Eight-Bit Madness';-inkscape-font-specification:'Eight-Bit Madness';stroke-width:0.01189178"
+         id="tspan1128">$</tspan></text>
+  </g>
+</svg>
